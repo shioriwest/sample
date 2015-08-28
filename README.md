@@ -1,1 +1,9 @@
-echo HELLO
+# README
+
+## テーマどうしようかな～～
+
+- JS
+- Spring
+- GOLD
+
+どうしよっかな～
